@@ -1,0 +1,147 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/jhhyry0aqg-lzh08vpj",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/diakub38g9t-lzh0mxqm",
+      "type": "Canvas",
+      "height": 556,
+      "width": 449,
+      "label": {
+        "en": [
+          "云岗第38窟西壁"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "1.盝形龛"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：西壁中央\n形状：盝形（一种古代建筑构件形状，上部如覆斗，下部为方台）\n内容：内主像为一倚坐佛"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "2.主像倚坐佛"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：盝形龛内\n姿势：倚坐（即半跏趺坐，一脚下垂）\n服饰：传统佛教服饰，可能身披袈裟，面带微笑，面容庄严"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "3.立佛"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：龛外两侧\n数量：各二尊\n姿势：站立姿势，可能手持法器或手印，面容平和"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "4.铭石"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：龛基中央\n形状：竖长条形\n功能：作为间隔，可能刻有文字或图案"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "5.树"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：铭石左右两侧\n数量：各一株\n装饰：树上雕刻有莲花化生伎乐童子"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "6.莲花化生伎乐童子（图片不清晰，未标注）"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：树上\n描述：童子从莲花中化生而出，可能手持乐器，演奏音乐，形象活泼可爱"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "7.供养人"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：树的外侧\n数量：各三身\n服饰：着交领广袖长袍，显得庄重肃穆\n动作：可能手持供品或作礼拜状"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "8.侍童"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：供养人旁\n数量：根据供养人数量而定\n动作：执持伞盖随从，显得恭敬有礼"
+            ]
+          }
+        }
+      ],
+      "summary": {
+        "en": [
+          ""
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/diakub38g9t-lzh0mxqm/annotation-page/vkqoizpfqzi-lzh0mxqm",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/annotation/3nx9t8ny0sl-lzh0mvmb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/diakub38g9t-lzh0mxqm",
+              "body": {
+                "id": "https://www.qingsiye.top/exa1.png",
+                "type": "Image",
+                "format": "image/png",
+                "height": 556,
+                "width": 449
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
