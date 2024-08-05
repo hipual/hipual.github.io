@@ -1,0 +1,87 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/r2w4yt5yctk-lzgxfr28",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/r2w4yt5yctk-lzgxfr28/canvas/pj52yzib6ye-lzgxj6o2",
+      "type": "Canvas",
+      "height": 1213,
+      "width": 1920,
+      "label": {
+        "en": [
+          "龙门大佛"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "尺寸"
+            ]
+          },
+          "value": {
+            "en": [
+              "11223344"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "姿态"
+            ]
+          },
+          "value": {
+            "en": [
+              "盘坐"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              ""
+            ]
+          },
+          "value": {
+            "en": [
+              ""
+            ]
+          }
+        }
+      ],
+      "summary": {
+        "en": [
+          "龙门石窟最大的佛像"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/r2w4yt5yctk-lzgxfr28/canvas/pj52yzib6ye-lzgxj6o2/annotation-page/fkktf6k6kcu-lzgxj6o2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/r2w4yt5yctk-lzgxfr28/annotation/ti3vjxzti7p-lzgxj6ht",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/r2w4yt5yctk-lzgxfr28/canvas/pj52yzib6ye-lzgxj6o2",
+              "body": {
+                "id": "https://youimg1.c-ctrip.com/target/100f14000000wk4krC3E9.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1213,
+                "width": 1920
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
