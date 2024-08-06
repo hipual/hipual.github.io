@@ -4,7 +4,12 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Blank Manifest"
+      "云岗三十八窟"
+    ]
+  },
+  "summary": {
+    "en": [
+      "云岗三十八窟语义集合，包含分区域集合和音乐文化集合两部分"
     ]
   },
   "items": [
@@ -15,7 +20,7 @@
       "width": 449,
       "label": {
         "en": [
-          "云岗第38窟西壁"
+          "<span>云岗第38窟西壁</span>"
         ]
       },
       "metadata": [
@@ -141,6 +146,370 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/diakub38g9t-lzh0mxqm/annotations/gjuj3oidhxp-lzh28518",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/diakub38g9t-lzh0mxqm/annotations/gjuj3oidhxp-lzh28518/annotation/7lfft3uhbqw-lzh29myd",
+              "type": "Annotation",
+              "label": {
+                "en": [
+                  ""
+                ]
+              },
+              "motivation": "describing",
+              "target": {
+                "id": "https://example.org/jhhyry0aqg-lzh08vpj/annotation/3nx9t8ny0sl-lzh0mvmb",
+                "type": "Annotation"
+              },
+              "body": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/kzwzagt8wfa-lzh2iwjy",
+      "type": "Canvas",
+      "height": 579,
+      "width": 397,
+      "label": {
+        "en": [
+          "云岗第38窟顶"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "平棊藻井"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：窟顶整体\n      窟顶满饰平棊藻井，展现出复杂的图案和层次感。"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "大朵团莲"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：窟顶中心位置\n      顶部以大朵团莲为中心，延展开来，形成天宫苍穹的视觉效果。团莲雕刻精细，花瓣层叠，中央可能还雕刻有花蕊或化生童子等细节。"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "化生童子"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：以中心位置分散至四周\n      从八个莲叶中分别飞出化生童子，姿态各异，形象生动。这些化生童子可能是佛教故事中的象征性人物，代表着生命的轮回和新生。"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "骑龙诸天仆乘"
+            ]
+          },
+          "value": {
+            "en": [
+              "位置：以中心团莲分散至四周\n      四身骑龙诸天仆乘围绕团莲，龙身蜿蜒，诸天仆乘或坐或立，形态逼真。这些形象象征着佛教中的护法神或天界众生。"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "飞天乐伎"
+            ]
+          },
+          "value": {
+            "en": [
+              "四周平棊格内雕刻出二十身飞天乐伎，她们手执各种乐器，翩翩起舞，为窟内增添了一抹生动的音乐盛会氛围。乐器种类包括曲颈琵琶、排箫、筚篥、钹、胡笳、五弦琵琶、笙、筝、箜篌、羯鼓、担鼓、琴、细腰鼓、横笛等14种"
+            ]
+          }
+        }
+      ],
+      "summary": {
+        "en": [
+          ""
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/kzwzagt8wfa-lzh2iwjy/annotation-page/nmconsnke9e-lzh2iwjy",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/annotation/bdjy89ri424-lzh2itrv",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/kzwzagt8wfa-lzh2iwjy",
+              "body": {
+                "id": "https://www.qingsiye.top/38kutop.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 579,
+                "width": 397
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/kzwzagt8wfa-lzh2iwjy/annotations/0vj2u4y1hf8i-lzh32ly6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/kzwzagt8wfa-lzh2iwjy/annotations/0vj2u4y1hf8i-lzh32ly6/annotation/9lsdlv3kqr-lzh33888",
+              "type": "Annotation",
+              "label": {
+                "en": [
+                  "大朵团莲"
+                ]
+              },
+              "summary": {
+                "en": [
+                  "窟顶中心位置顶部以大朵团莲为中心，延展开来，形成天宫苍穹的视觉效果。团莲雕刻精细，花瓣层叠，中央可能还雕刻有花蕊或化生童子等细节。"
+                ]
+              },
+              "metadata": [
+                {
+                  "label": {
+                    "en": [
+                      "位置"
+                    ]
+                  },
+                  "value": {
+                    "en": [
+                      "窟顶中心位置"
+                    ]
+                  }
+                }
+              ],
+              "motivation": "describing",
+              "target": {
+                "type": "SpecificResource",
+                "source": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/kzwzagt8wfa-lzh2iwjy",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 397 579\" width=\"397\" height=\"579\"><polygon points=\"90,225.75 90,323.25 180,372 270,323.25 270,225.75 180,177\" /></svg>"
+                }
+              },
+              "body": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/lqj8axqbkvh-lzh2y2kg",
+      "type": "Canvas",
+      "height": 901,
+      "width": 717,
+      "label": {
+        "en": [
+          "云岗第38窟东壁"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/lqj8axqbkvh-lzh2y2kg/annotation-page/xm2f1uo4sk-lzh2y2kg",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/annotation/hiucpgxfg2t-lzh2xo0f",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/lqj8axqbkvh-lzh2y2kg",
+              "body": {
+                "id": "https://www.qingsiye.top/38kueast.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 901,
+                "width": 717
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/6oncnmz9w7y-lzhzjqht",
+      "type": "Canvas",
+      "height": 556,
+      "width": 397,
+      "label": {
+        "en": [
+          "云岗第38窟东壁左音乐树"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/6oncnmz9w7y-lzhzjqht/annotation-page/9uiujyz9wp-lzhzjqht",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/6oncnmz9w7y-lzhzjqht/annotation-page/9uiujyz9wp-lzhzjqht/annotation/5r6qcr9ujx7-lzihjwha",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/6oncnmz9w7y-lzhzjqht",
+              "body": {
+                "id": "https://www.qingsiye.top/eastmusictree.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 556,
+                "width": 397
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/75kzotpsu8b-lzihltxo",
+      "type": "Canvas",
+      "height": 573,
+      "width": 383,
+      "label": {
+        "en": [
+          "云岗第38窟东壁右音乐树"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/75kzotpsu8b-lzihltxo/annotation-page/qi38eztj0dp-lzihltxo",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/annotation/gkl480sijr8-lzihlrzg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/75kzotpsu8b-lzihltxo",
+              "body": {
+                "id": "https://www.qingsiye.top/eastrightmusictree.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 573,
+                "width": 383
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/pneo7cznho-lzihme4c",
+      "type": "Canvas",
+      "height": 578,
+      "width": 386,
+      "label": {
+        "en": [
+          "云岗第38窟西壁左音乐树"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/pneo7cznho-lzihme4c/annotation-page/ld6vkd02t5-lzihme4c",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/annotation/7tid5w79e88-lzihmdo1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/pneo7cznho-lzihme4c",
+              "body": {
+                "id": "https://www.qingsiye.top/westleftmuscitree.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 578,
+                "width": 386
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/ljhsxk0lbtl-lzihn9jk",
+      "type": "Canvas",
+      "height": 568,
+      "width": 378,
+      "label": {
+        "en": [
+          "云岗第38窟西壁右音乐树"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/ljhsxk0lbtl-lzihn9jk/annotation-page/7xx512nie7-lzihn9jk",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/annotation/iklv5p0o1m-lzihn375",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/ljhsxk0lbtl-lzihn9jk",
+              "body": {
+                "id": "https://www.qingsiye.top/westrightmusictree.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 378
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/b85mgtkv3kk-lzihoahc",
+      "type": "Canvas",
+      "height": 287,
+      "width": 434,
+      "label": {
+        "en": [
+          "吴天恩造像"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/b85mgtkv3kk-lzihoahc/annotation-page/ipv2alt8zyp-lzihoahc",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/jhhyry0aqg-lzh08vpj/annotation/gr7qq3q1fka-lzihoa3f",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/jhhyry0aqg-lzh08vpj/canvas/b85mgtkv3kk-lzihoahc",
+              "body": {
+                "id": "https://www.qingsiye.top/wutianenformword.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 287,
+                "width": 434
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
       ]
     }
   ]
